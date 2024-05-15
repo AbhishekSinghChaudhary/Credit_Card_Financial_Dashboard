@@ -1,7 +1,7 @@
 # Credit_Card_Financial_Dashboard
 Power bi Dashboard
 Project objective:
-In my credit_card_financial_dashboard project, I extract data from GitHub, load it into PostgreSQL, and create a database with a corresponding table. Then, I connect Power BI to PostgreSQL, importing and refining the data with DAX queries. Utilizing Power BI's visualization tools, I craft a dashboard with various charts, providing insights. Notably, I work with real-time datasets, ensuring updates in PostgreSQL reflect instantly in Power BI. Employing business analysis techniques, I focus on requirements elicitation, data profiling, and stakeholder interviews to align the dashboard with business objectives and drive actionable insights.
+The objective of the credit_card_financial_dashboard project is to create a dynamic and insightful visualization tool that allows stakeholders to monitor and analyze credit card financial data effectively. This involves integrating data from GitHub into a PostgreSQL database, connecting it with Power BI for visualization, and designing a dashboard that provides real-time insights into credit card financial metrics. Additionally, the project aims to leverage business analysis techniques to ensure the dashboard meets stakeholders' requirements and facilitates informed decision-making.
 
 Dataset: 
 Financial Dataset
